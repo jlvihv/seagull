@@ -1,5 +1,4 @@
 <script lang="ts">
-    import Alert from "./Alert.svelte";
     let username: string = "";
     let password: string = "";
     function login() {
